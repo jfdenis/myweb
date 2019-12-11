@@ -16,8 +16,8 @@ const Body = () => (
                 <br/>
                 Actually I'm web developer, I try to use the newer technologies. <br/>
                 I use MongoDB as a database then I connect a Server with <br/>
-                Node Express. That's how I write the backend and then, the frontend <br/>
-                I'm actually learning React. with its newer versions and ES6.
+                Node Express. That's how I write the backend and then with the frontend <br/>
+                in wich actually I'm learning and using React. with its newer versions and ES6.
                 <br/>
                 <i> "Never Stop learning" </i>
             </p>
